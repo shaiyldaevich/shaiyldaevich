@@ -8,7 +8,7 @@
 ## 🙋‍♂️ About Me
 
 <a href="https://github.com/Elkhan2003">
-  <img height="70" src="https://readme-typing-svg.herokuapp.com?color=FFE15D&lines=Just+Full-Stack+Developer"/>
+  <img height="70" src="https://readme-typing-svg.herokuapp.com?color=FFE15D&lines=Just+Front+End+Developer"/>
 </a>
 
 ## 📊 My Github Stats
@@ -48,10 +48,10 @@
 ## 🔖 My contacts
 
 <div class="contacts">
-  <a href="https://wa.me/996990385056"><img src="https://img.shields.io/badge/-WhatsApp-090909?style=for-the-badge&logo=WhatsApp&logoColor=4ECB5A"></a>
-  <a href="https://t.me/Elcho911"><img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9"></a>
-  <a href="https://www.instagram.com/elcho911"><img src="https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E"></a>
-  <a href="https://vk.com/elcho_effects"><img src="https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3"></a>
-  <a href="https://www.youtube.com/channel/UC9Vp5dVZkpf7pkffeiADP2A"><img src="https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000"></a>
-  <a href="https://www.facebook.com/Elcho911"><img src="https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5"></a>
+  <a href="https://wa.me/996708060774"><img src="https://img.shields.io/badge/-WhatsApp-090909?style=for-the-badge&logo=WhatsApp&logoColor=4ECB5A"></a>
+  <a href="https://t.me/Shaildaevich"><img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9"></a>
+  <a href="https://www.instagram.com/shaiyldaevich/"><img src="https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E"></a>
+<!--   <a href="https://vk.com/elcho_effects"><img src="https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3"></a> -->
+<!--   <a href="https://www.youtube.com/channel/UC9Vp5dVZkpf7pkffeiADP2A"><img src="https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000"></a> -->
+<!--   <a href="https://www.facebook.com/Elcho911"><img src="https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5"></a> -->
 </div>
