@@ -1,6 +1,6 @@
 <div align="center">
 <!--   <img width="800px" height="125px" src="https://SMK555.netlify.app/Elkhan2003-icons/elcho.gif"/> -->
-    <img width="800px" height="125px" src="https://files.oaiusercontent.com/file-6YgN6ktkJ5BC875owTJnB1?se=2024-12-01T05%3A17%3A24Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3De2da3b2a-0952-48d1-8eee-06398d3a4f8a.webp&sig=22zgENk8Eigy60WTW5bz8camBB%2BC8N%2BKaKqO/kZA0xw%3D"/>
+    <img width="800px" height="205px" src="https://files.oaiusercontent.com/file-6YgN6ktkJ5BC875owTJnB1?se=2024-12-01T05%3A17%3A24Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3De2da3b2a-0952-48d1-8eee-06398d3a4f8a.webp&sig=22zgENk8Eigy60WTW5bz8camBB%2BC8N%2BKaKqO/kZA0xw%3D"/>
 </div>
 
 <h1 align="center"><span class="hi">Hi there, </span><span class="name">I'm</span> <a class="hi" href="https://github.com/Elkhan2003" target="_blank">SMK555</a> 
