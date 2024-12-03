@@ -1,6 +1,6 @@
 <div align="center">
 <!--   <img width="800px" height="125px" src="https://SMK555.netlify.app/Elkhan2003-icons/elcho.gif"/> -->
-<!--   <img width="800px" height="425px" src=" https://files.oaiusercontent.com/file-6YgN6ktkJ5BC875owTJnB1?se=2024-12-03T12%3A02%3A07Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3De2da3b2a-0952-48d1-8eee-06398d3a4f8a.webp&sig=w2d2fFXyv5PfK0GZQNb9XCRVdwUgFrck4rxx/HN2ISM%3D"/> -->
+  <img width="800px" height="225px" src="https://steamuserimages-a.akamaihd.net/ugc/803240690804004951/018778597C6F13A851B71267550546C430A2F877/?imw=1920&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"/>
    
 </div>
 
