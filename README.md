@@ -4,26 +4,26 @@
    
 </div>
 
-<h1 align="center"><span class="hi">Hi there, </span><span class="name">I'm</span> <a class="hi" href="https://github.com/Elkhan2003" target="_blank">Salamalik</a> 
+<h1 align="center"><span class="hi">Hi there, </span><span class="name">I'm</span> <a class="hi" href="https://github.com/shaiyldaevich" target="_blank">Salamalik</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 ## 🙋‍♂️ About Me
 
-<a href="https://github.com/Elkhan2003">
+<a href="https://github.com/shaiyldaevich">
   <img height="70" src="https://readme-typing-svg.herokuapp.com?color=FFE15D&lines=Just+Front+End+Developer"/>
 </a>
 
 ## 📊 My Github Stats
 
 <div style="display: flex; justify-content: center; align-items: center;">
-<a href="https://github.com/Elkhan2003"><img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Shaiyldaevich&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117">
+<a href="https://github.com/shaiyldaevich"><img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Shaiyldaevich&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117">
 </a>
-<a href="https://github.com/Elkhan2003"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaiyldaevich&langs_count=8&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
+<a href="https://github.com/shaiyldaevich"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaiyldaevich&langs_count=8&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
 </a>
 </div>
 
 <p align="center">
-    <a href="https://github.com/Elkhan2003">
+    <a href="https://github.com/shaiyldaevich">
 <!--         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Elkhan2003&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/> -->
     </a>
 </p>
