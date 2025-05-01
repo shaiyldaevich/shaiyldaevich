@@ -43,6 +43,8 @@
 <!--     <a href="https://www.framer.com/motion/" target="_blank">&nbsp<img width="43px" src="https://i.ibb.co/JQ65k8b/image.png"/>&nbsp</a>  -->
 <!--     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>  -->
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+  <a href="https://redux-toolkit.js.org/" target="_blank">&nbsp<img width="48px" src="https://redux-toolkit.js.org/img/redux-logo-landscape.png"/>&nbsp</a>
+    <a href="https://tailwindcss.com/" target="_blank">&nbsp<img width="48px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"/>&nbsp</a>
 </p>
 
 <br/>
