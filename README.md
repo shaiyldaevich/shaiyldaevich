@@ -10,7 +10,7 @@
 ## 🙋‍♂️ About Me
 
 <a href="https://github.com/shaiyldaevich">
-  <img height="70" src="https://readme-typing-svg.herokuapp.com?color=FFE15D&lines=Just+Front+End+Developer"/>
+  <img height="70" src="https://readme-typing-svg.herokuapp.com?color=FFE15D&lines=Just+Fullstack+Developer"/>
 </a>
 
 ## 📊 My Github Stats
