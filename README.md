@@ -46,19 +46,7 @@
   <a href="https://redux-toolkit.js.org/" target="_blank">&nbsp<img width="48px" src="https://redux-toolkit.js.org/img/redux-logo-landscape.png"/>&nbsp</a>
     <a href="https://tailwindcss.com/" target="_blank">&nbsp<img width="48px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"/>&nbsp</a>
 
- <a href="https://fastify.io/" target="_blank">
-    <img width="48px" src="https://raw.githubusercontent.com/fastify/graphics/master/fastify-logo.png" alt="Fastify Logo"/>
-  </a>
 
-  <!-- Supabase -->
-  <a href="https://supabase.com/" target="_blank">
-    <img width="48px" src="https://raw.githubusercontent.com/supabase/supabase/master/web/static/supabase-logo.svg" alt="Supabase Logo"/>
-  </a>
-
-  <!-- Prisma -->
-  <a href="https://www.prisma.io/" target="_blank">
-    <img width="48px" src="https://raw.githubusercontent.com/prisma/prisma/master/docs/static/images/logo.svg" alt="Prisma Logo"/>
-  </a>
 <br/>
 
 ## 🔖 My contacts
