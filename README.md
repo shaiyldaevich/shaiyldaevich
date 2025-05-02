@@ -45,15 +45,21 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
   <a href="https://redux-toolkit.js.org/" target="_blank">&nbsp<img width="48px" src="https://redux-toolkit.js.org/img/redux-logo-landscape.png"/>&nbsp</a>
     <a href="https://tailwindcss.com/" target="_blank">&nbsp<img width="48px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"/>&nbsp</a>
-  <a href="https://fastify.io/" target="_blank">&nbsp<img width="48px" src="https://fastify.io/images/fastify-128.png"/>&nbsp</a>
+
+ <!-- Fastify -->
+  <a href="https://fastify.io/" target="_blank">
+    <img width="48px" src="https://seeklogo.com/images/F/fastify-logo-399412/fastify-logo-399412.png" alt="Fastify Logo"/>
+  </a>
 
   <!-- Supabase -->
-  <a href="https://supabase.com/" target="_blank">&nbsp<img width="48px" src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png"/>&nbsp</a>
+  <a href="https://supabase.com/" target="_blank">
+    <img width="48px" src="https://seeklogo.com/images/S/supabase-logo-435678/supabase-logo-435678.png" alt="Supabase Logo"/>
+  </a>
 
   <!-- Prisma -->
-  <a href="https://www.prisma.io/" target="_blank">&nbsp<img width="48px" src="https://www.svgrepo.com/show/331488/prisma.svg"/>&nbsp</a>
-</p>
-
+  <a href="https://www.prisma.io/" target="_blank">
+    <img width="48px" src="https://seeklogo.com/images/P/prisma-logo-112217/prisma-logo-112217.png" alt="Prisma Logo"/>
+  </a>
 <br/>
 
 ## 🔖 My contacts
