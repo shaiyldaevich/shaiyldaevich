@@ -45,6 +45,13 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
   <a href="https://redux-toolkit.js.org/" target="_blank">&nbsp<img width="48px" src="https://redux-toolkit.js.org/img/redux-logo-landscape.png"/>&nbsp</a>
     <a href="https://tailwindcss.com/" target="_blank">&nbsp<img width="48px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"/>&nbsp</a>
+  <a href="https://fastify.io/" target="_blank">&nbsp<img width="48px" src="https://fastify.io/images/fastify-128.png"/>&nbsp</a>
+
+  <!-- Supabase -->
+  <a href="https://supabase.com/" target="_blank">&nbsp<img width="48px" src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png"/>&nbsp</a>
+
+  <!-- Prisma -->
+  <a href="https://www.prisma.io/" target="_blank">&nbsp<img width="48px" src="https://www.svgrepo.com/show/331488/prisma.svg"/>&nbsp</a>
 </p>
 
 <br/>
